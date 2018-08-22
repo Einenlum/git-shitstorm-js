@@ -1,6 +1,6 @@
 {
   "name": "git-shitstorm",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "A tool to make developers become crazy.",
   "main": "index.js",
   "author": "Einenlum <yann.rabiller@gmail.com>",
