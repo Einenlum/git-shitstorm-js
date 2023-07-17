@@ -1,4 +1,4 @@
-# Git Shitstorm
+# Git Shitstorm JS
 
 A tool to make developers become crazy.
 
